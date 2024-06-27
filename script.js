@@ -1,4 +1,4 @@
-
+/*script.js file*/
 let toggleMenu = document.querySelector(".toggle");
 toggleMenu.addEventListener("click", () => {
   console.log("clicked");
